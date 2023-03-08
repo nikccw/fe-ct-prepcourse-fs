@@ -24,16 +24,19 @@ function resta(x, y) {
 function divide(x, y) {
    // Retorna el resultado de su división.
    // Tu código:
+   return x/y;
 }
 
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
+   return x*y;
 }
 
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
+   return x%y;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
